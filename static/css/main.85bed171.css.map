@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.85bed171.css","mappings":"AAAA,QCCI,kBAAmB,CACnB,wBAAiB,CAAjB,gBAAiB,CDDjB,WAAY,CCEZ,WDDJ","sources":["App.css","components/Imagen/Foto.css"],"sourcesContent":[".imagen{\r\n    width: 500px;\r\n}",".imagen{\r\n    border-radius: 2rem;\r\n    filter: blur(2px);\r\n    width: 200px;\r\n}"],"names":[],"sourceRoot":""}
